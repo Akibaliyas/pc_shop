@@ -1,2 +1,2 @@
 # pc_shop
-PHP system for a PC shop 
+PHP selling system for a PC shop 
